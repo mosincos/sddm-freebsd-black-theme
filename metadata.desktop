@@ -1,5 +1,5 @@
 [SddmGreeterTheme]
-Name=FreeBSD Black Theme
+Name=SDDM FreeBSD Black Theme
 Description=A simple SDDM theme for FreeBSD.
 Screenshot=screenshot.png
 License=CC-BY-SA
@@ -9,5 +9,5 @@ Screenshot=screenshot.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Theme-Id=freebsd-black-theme
+Theme-Id=sddm-freebsd-black-theme
 Theme-API=2.0
